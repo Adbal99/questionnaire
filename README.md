@@ -1,6 +1,6 @@
 # Simple Questionnaire web app
 
-Przedstawiam prosta strone internetowa, w ktorej uzytkownik moze utworzyc ankiete, dodac pytania oraz uzupelniac ankiety utworzone przez innych. Cos na wzor popularneej strony StrawPoll
+I would like to present simple StrawPoll-like web application, where user is able to create a questionnaire or take a survey
 
 <p align="center">
 <a href="https://ibb.co/mJkx544"><img src="https://i.ibb.co/mJkx544/img-1.png" alt="img-1" border="0"></a>
